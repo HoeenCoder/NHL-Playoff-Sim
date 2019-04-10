@@ -1,0 +1,782 @@
+{
+	"tampa":"tampabaylightning",
+	"tampabay":"tampabaylightning",
+	"lightning":"tampabaylightning",
+	"tampabaylightning":{
+		"name":"Tampa Bay Lightning",
+		"id":"tampabaylightning",
+		"wins":0,
+		"overallLosses":0,
+		"r1":{
+			"overall":0
+		},
+		"r2":{
+			"overall":0
+		},
+		"r3":{
+			"overall":0
+		},
+		"r4":{
+			"overall":0
+		},
+		"points": 0,
+		"w": 0,
+		"row": 0,
+		"conf": "east",
+		"div": "atl"
+	},
+	"calgary":"calgaryflames",
+	"flames":"calgaryflames",
+	"calgaryflames":{
+		"name":"Calgary Flames",
+		"id":"calgaryflames",
+		"wins":0,
+		"overallLosses":0,
+		"r1":{
+			"overall":0
+		},
+		"r2":{
+			"overall":0
+		},
+		"r3":{
+			"overall":0
+		},
+		"r4":{
+			"overall":0
+		},
+		"points": 0,
+		"w": 0,
+		"row": 0,
+		"conf": "west",
+		"div": "pac"
+	},
+	"washington":"washingtoncapitals",
+	"capitals":"washingtoncapitals",
+	"washingtoncapitals":{
+		"name":"Washington Capitals",
+		"id":"washingtoncapitals",
+		"wins":0,
+		"overallLosses":0,
+		"r1":{
+			"overall":0
+		},
+		"r2":{
+			"overall":0
+		},
+		"r3":{
+			"overall":0
+		},
+		"r4":{
+			"overall":0
+		},
+		"points": 0,
+		"w": 0,
+		"row": 0,
+		"conf": "east",
+		"div": "met"
+	},
+	"nashville":"nashvillepredators",
+	"predators":"nashvillepredators",
+	"nashvillepredators":{
+		"name":"Nashville Predators",
+		"id":"nashvillepredators",
+		"wins":0,
+		"overallLosses":0,
+		"r1":{
+			"overall":0
+		},
+		"r2":{
+			"overall":0
+		},
+		"r3":{
+			"overall":0
+		},
+		"r4":{
+			"overall":0
+		},
+		"points": 0,
+		"w": 0,
+		"row": 0,
+		"conf": "west",
+		"div": "cen"
+	},
+	"boston":"bostonbruins",
+	"bruins":"bostonbruins",
+	"bostonbruins":{
+		"name":"Boston Bruins",
+		"id":"bostonbruins",
+		"wins":0,
+		"overallLosses":0,
+		"r1":{
+			"overall":0
+		},
+		"r2":{
+			"overall":0
+		},
+		"r3":{
+			"overall":0
+		},
+		"r4":{
+			"overall":0
+		},
+		"points": 0,
+		"w": 0,
+		"row": 0,
+		"conf": "east",
+		"div": "atl"
+	},
+	"sanjose":"sanjosesharks",
+	"sharks":"sanjosesharks",
+	"sanjosesharks":{
+		"name":"San Jose Sharks",
+		"id":"sanjosesharks",
+		"wins":0,
+		"overallLosses":0,
+		"r1":{
+			"overall":0
+		},
+		"r2":{
+			"overall":0
+		},
+		"r3":{
+			"overall":0
+		},
+		"r4":{
+			"overall":0
+		},
+		"points": 0,
+		"w": 0,
+		"row": 0,
+		"conf": "west",
+		"div": "pac"
+	},
+	"nyi":"newyorkislanders",
+	"islanders":"newyorkislanders",
+	"newyorkislanders":{
+		"name":"New York Islanders",
+		"id":"newyorkislanders",
+		"wins":0,
+		"overallLosses":0,
+		"r1":{
+			"overall":0
+		},
+		"r2":{
+			"overall":0
+		},
+		"r3":{
+			"overall":0
+		},
+		"r4":{
+			"overall":0
+		},
+		"points": 0,
+		"w": 0,
+		"row": 0,
+		"conf": "east",
+		"div": "met"
+	},
+	"winnipeg":"winnipegjets",
+	"jets":"winnipegjets",
+	"winnipegjets":{
+		"name":"Winnipeg Jets",
+		"id":"winnipegjets",
+		"wins":0,
+		"overallLosses":0,
+		"r1":{
+			"overall":0
+		},
+		"r2":{
+			"overall":0
+		},
+		"r3":{
+			"overall":0
+		},
+		"r4":{
+			"overall":0
+		},
+		"points": 0,
+		"w": 0,
+		"row": 0,
+		"conf": "west",
+		"div": "cen"
+	},
+	"toronto":"torontomapleleafs",
+	"mapleleafs":"torontomapleleafs",
+	"leafs":"torontomapleleafs",
+	"torontomapleleafs":{
+		"name":"Toronto Maple Leafs",
+		"id":"torontomapleleafs",
+		"wins":0,
+		"overallLosses":0,
+		"r1":{
+			"overall":0
+		},
+		"r2":{
+			"overall":0
+		},
+		"r3":{
+			"overall":0
+		},
+		"r4":{
+			"overall":0
+		},
+		"points": 0,
+		"w": 0,
+		"row": 0,
+		"conf": "east",
+		"div": "atl"
+	},
+	"stlouis":"stlouisblues",
+	"blues":"stlouisblues",
+	"stlouisblues":{
+		"name":"St. Louis Blues",
+		"id":"stlouisblues",
+		"wins":0,
+		"overallLosses":0,
+		"r1":{
+			"overall":0
+		},
+		"r2":{
+			"overall":0
+		},
+		"r3":{
+			"overall":0
+		},
+		"r4":{
+			"overall":0
+		},
+		"points": 0,
+		"w": 0,
+		"row": 0,
+		"conf": "west",
+		"div": "cen"
+	},
+	"pittsburgh":"pittsburghpenguins",
+	"penguins":"pittsburghpenguins",
+	"pittsburghpenguins":{
+		"name":"Pittsburgh Penguins",
+		"id":"pittsburghpenguins",
+		"wins":0,
+		"overallLosses":0,
+		"r1":{
+			"overall":0
+		},
+		"r2":{
+			"overall":0
+		},
+		"r3":{
+			"overall":0
+		},
+		"r4":{
+			"overall":0
+		},
+		"points": 0,
+		"w": 0,
+		"row": 0,
+		"conf": "east",
+		"div": "met"
+	},
+	"vegas":"vegasgoldenknights",
+	"goldenknights":"vegasgoldenknights",
+	"knights":"vegasgoldenknights",
+	"vegasgoldenknights":{
+		"name":"Vegas Golden Knights",
+		"id":"vegasgoldenknights",
+		"wins":0,
+		"overallLosses":0,
+		"r1":{
+			"overall":0
+		},
+		"r2":{
+			"overall":0
+		},
+		"r3":{
+			"overall":0
+		},
+		"r4":{
+			"overall":0
+		},
+		"points": 0,
+		"w": 0,
+		"row": 0,
+		"conf": "west",
+		"div": "pac"
+	},
+	"carolina":"carolinahurricanes",
+	"hurricanes":"carolinahurricanes",
+	"carolinahurricanes":{
+		"name":"Carolina Hurricanes",
+		"id":"carolinahurricanes",
+		"wins":0,
+		"overallLosses":0,
+		"r1":{
+			"overall":0
+		},
+		"r2":{
+			"overall":0
+		},
+		"r3":{
+			"overall":0
+		},
+		"r4":{
+			"overall":0
+		},
+		"points": 0,
+		"w": 0,
+		"row": 0,
+		"conf": "east",
+		"div": "met"
+	},
+	"dallas":"dallasstars",
+	"stars":"dallasstars",
+	"dallasstars":{
+		"name":"Dallas Stars",
+		"id":"dallasstars",
+		"wins":0,
+		"overallLosses":0,
+		"r1":{
+			"overall":0
+		},
+		"r2":{
+			"overall":0
+		},
+		"r3":{
+			"overall":0
+		},
+		"r4":{
+			"overall":0
+		},
+		"points": 0,
+		"w": 0,
+		"row": 0,
+		"conf": "west",
+		"div": "cen"
+	},
+	"columbus":"columbusbluejackets",
+	"bluejackets":"columbusbluejackets",
+	"jackets":"columbusbluejackets",
+	"columbusbluejackets":{
+		"name":"Columbus Blue Jackets",
+		"id":"columbusbluejackets",
+		"wins":0,
+		"overallLosses":0,
+		"r1":{
+			"overall":0
+		},
+		"r2":{
+			"overall":0
+		},
+		"r3":{
+			"overall":0
+		},
+		"r4":{
+			"overall":0
+		},
+		"points": 0,
+		"w": 0,
+		"row": 0,
+		"conf": "east",
+		"div": "met"
+	},
+	"colorado":"coloradoavalanche",
+	"avalanche":"coloradoavalanche",
+	"coloradoavalanche":{
+		"name":"Colorado Avalanche",
+		"id":"coloradoavalanche",
+		"wins":0,
+		"overallLosses":0,
+		"r1":{
+			"overall":0
+		},
+		"r2":{
+			"overall":0
+		},
+		"r3":{
+			"overall":0
+		},
+		"r4":{
+			"overall":0
+		},
+		"points": 0,
+		"w": 0,
+		"row": 0,
+		"conf": "west",
+		"div": "cen"
+	},
+	"montreal":"montrealcanadians",
+	"canadians":"montrealcanadians",
+	"montrealcanadians":{
+		"name":"Montreal Canadians",
+		"id":"montrealcanadians",
+		"wins":0,
+		"overallLosses":0,
+		"r1":{
+			"overall":0
+		},
+		"r2":{
+			"overall":0
+		},
+		"r3":{
+			"overall":0
+		},
+		"r4":{
+			"overall":0
+		},
+		"points": 0,
+		"w": 0,
+		"row": 0,
+		"conf": "east",
+		"div": "atl"
+	},
+	"arizona":"arizonacoyotes",
+	"coyotes":"arizonacoyotes",
+	"arizonacoyotes":{
+		"name":"Arizona Coyotes",
+		"id":"arizonacoyotes",
+		"wins":0,
+		"overallLosses":0,
+		"r1":{
+			"overall":0
+		},
+		"r2":{
+			"overall":0
+		},
+		"r3":{
+			"overall":0
+		},
+		"r4":{
+			"overall":0
+		},
+		"points": 0,
+		"w": 0,
+		"row": 0,
+		"conf": "west",
+		"div": "pac"
+	},
+	"florida":"floridapanthers",
+	"panthers":"floridapanthers",
+	"floridapanthers":{
+		"name":"Florida Panthers",
+		"id":"floridapanthers",
+		"wins":0,
+		"overallLosses":0,
+		"r1":{
+			"overall":0
+		},
+		"r2":{
+			"overall":0
+		},
+		"r3":{
+			"overall":0
+		},
+		"r4":{
+			"overall":0
+		},
+		"points": 0,
+		"w": 0,
+		"row": 0,
+		"conf": "east",
+		"div": "atl"
+	},
+	"chicago":"chicagoblackhawks",
+	"blackhawks":"chicagoblackhawks",
+	"chicagoblackhawks":{
+		"name":"Chicago Blackhawks",
+		"id":"chicagoblackhawks",
+		"wins":0,
+		"overallLosses":0,
+		"r1":{
+			"overall":0
+		},
+		"r2":{
+			"overall":0
+		},
+		"r3":{
+			"overall":0
+		},
+		"r4":{
+			"overall":0
+		},
+		"points": 0,
+		"w": 0,
+		"row": 0,
+		"conf": "west",
+		"div": "cen"
+	},
+	"minnesota":"minnesotawild",
+	"wild":"minnesotawild",
+	"minnesotawild":{
+		"name":"Minnesota Wild",
+		"id":"minnesotawild",
+		"wins":0,
+		"overallLosses":0,
+		"r1":{
+			"overall":0
+		},
+		"r2":{
+			"overall":0
+		},
+		"r3":{
+			"overall":0
+		},
+		"r4":{
+			"overall":0
+		},
+		"points": 0,
+		"w": 0,
+		"row": 0,
+		"conf": "west",
+		"div": "cen"
+	},
+	"philadelphia":"philadelphiaflyers",
+	"flyers":"philadelphiaflyers",
+	"philadelphiaflyers":{
+		"name":"Philadelphia Flyers",
+		"id":"philadelphiaflyers",
+		"wins":0,
+		"overallLosses":0,
+		"r1":{
+			"overall":0
+		},
+		"r2":{
+			"overall":0
+		},
+		"r3":{
+			"overall":0
+		},
+		"r4":{
+			"overall":0
+		},
+		"points": 0,
+		"w": 0,
+		"row": 0,
+		"conf": "east",
+		"div": "met"
+	},
+	"vancouver":"vancouvercanucks",
+	"canucks":"vancouvercanucks",
+	"vancouvercanucks":{
+		"name":"Vancouver Canucks",
+		"id":"vancouvercanucks",
+		"wins":0,
+		"overallLosses":0,
+		"r1":{
+			"overall":0
+		},
+		"r2":{
+			"overall":0
+		},
+		"r3":{
+			"overall":0
+		},
+		"r4":{
+			"overall":0
+		},
+		"points": 0,
+		"w": 0,
+		"row": 0,
+		"conf": "west",
+		"div": "pac"
+	},
+	"nyr":"newyorkrangers",
+	"rangers":"newyorkrangers",
+	"newyorkrangers":{
+		"name":"New York Rangers",
+		"id":"newyorkrangers",
+		"wins":0,
+		"overallLosses":0,
+		"r1":{
+			"overall":0
+		},
+		"r2":{
+			"overall":0
+		},
+		"r3":{
+			"overall":0
+		},
+		"r4":{
+			"overall":0
+		},
+		"points": 0,
+		"w": 0,
+		"row": 0,
+		"conf": "east",
+		"div": "met"
+	},
+	"anaheim":"anaheimducks",
+	"ducks":"anaheimducks",
+	"anaheimducks":{
+		"name":"Anaheim Ducks",
+		"id":"anaheimducks",
+		"wins":0,
+		"overallLosses":0,
+		"r1":{
+			"overall":0
+		},
+		"r2":{
+			"overall":0
+		},
+		"r3":{
+			"overall":0
+		},
+		"r4":{
+			"overall":0
+		},
+		"points": 0,
+		"w": 0,
+		"row": 0,
+		"conf": "west",
+		"div": "pac"
+	},
+	"buffalo":"buffalosabers",
+	"sabers":"buffalosabers",
+	"buffalosabers":{
+		"name":"Buffalo Sabers",
+		"id":"buffalosabers",
+		"wins":0,
+		"overallLosses":0,
+		"r1":{
+			"overall":0
+		},
+		"r2":{
+			"overall":0
+		},
+		"r3":{
+			"overall":0
+		},
+		"r4":{
+			"overall":0
+		},
+		"points": 0,
+		"w": 0,
+		"row": 0,
+		"conf": "east",
+		"div": "atl"
+	},
+	"edmonton":"edmontonoilers",
+	"oilers":"edmontonoilers",
+	"edmontonoilers":{
+		"name":"Edmonton Oilers",
+		"id":"edmontonoilers",
+		"wins":0,
+		"overallLosses":0,
+		"r1":{
+			"overall":0
+		},
+		"r2":{
+			"overall":0
+		},
+		"r3":{
+			"overall":0
+		},
+		"r4":{
+			"overall":0
+		},
+		"points": 0,
+		"w": 0,
+		"row": 0,
+		"conf": "west",
+		"div": "pac"
+	},
+	"detroit":"detroitredwings",
+	"redwings":"detroitredwings",
+	"wings":"detroitredwings",
+	"detroitredwings":{
+		"name":"Detroit Red Wings",
+		"id":"detroitredwings",
+		"wins":0,
+		"overallLosses":0,
+		"r1":{
+			"overall":0
+		},
+		"r2":{
+			"overall":0
+		},
+		"r3":{
+			"overall":0
+		},
+		"r4":{
+			"overall":0
+		},
+		"points": 0,
+		"w": 0,
+		"row": 0,
+		"conf": "east",
+		"div": "atl"
+	},
+	"newjersey":"newjerseydevils",
+	"devils":"newjerseydevils",
+	"newjerseydevils":{
+		"name":"New Jersey Devils",
+		"id":"newjerseydevils",
+		"wins":0,
+		"overallLosses":0,
+		"r1":{
+			"overall":0
+		},
+		"r2":{
+			"overall":0
+		},
+		"r3":{
+			"overall":0
+		},
+		"r4":{
+			"overall":0
+		},
+		"points": 0,
+		"w": 0,
+		"row": 0,
+		"conf": "east",
+		"div": "met"
+	},
+	"losangeles":"losangeleskings",
+	"kings":"losangeleskings",
+	"losangeleskings":{
+		"name":"Los Angeles Kings",
+		"id":"losangeleskings",
+		"wins":0,
+		"overallLosses":0,
+		"r1":{
+			"overall":0
+		},
+		"r2":{
+			"overall":0
+		},
+		"r3":{
+			"overall":0
+		},
+		"r4":{
+			"overall":0
+		},
+		"points": 0,
+		"w": 0,
+		"row": 0,
+		"conf": "west",
+		"div": "pac"
+	},
+	"ottawa":"ottawasenators",
+	"senators":"ottawasenators",
+	"ottawasenators":{
+		"name":"Ottawa Senators",
+		"id":"ottawasenators",
+		"wins":0,
+		"overallLosses":0,
+		"r1":{
+			"overall":0
+		},
+		"r2":{
+			"overall":0
+		},
+		"r3":{
+			"overall":0
+		},
+		"r4":{
+			"overall":0
+		},
+		"points": 0,
+		"w": 0,
+		"row": 0,
+		"conf": "east",
+		"div": "atl"
+	}
+}

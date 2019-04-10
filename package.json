@@ -1,0 +1,15 @@
+{
+  "name": "playoff_sim",
+  "version": "1.0.0",
+  "description": "Simple NHL Playoff Simulator",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/HoeenCoder/NHL-Playoff-Sim.git"
+  },
+  "author": "HoeenCoder",
+  "license": "MIT"
+}

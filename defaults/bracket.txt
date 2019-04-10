@@ -1,0 +1,51 @@
+# Sim Bracket
+# This file contains the bracket to be simulated.
+# You can modify it to change which teams made playoffs,
+# and to change where each team is seeded.
+# In the future, you will also be able to change a team's chance to win games.
+#
+# SYNTAX (IMPORTANT):
+# Lines starting with # are ignored by the compiler
+# Empty lines or lines with only spaces are also ignored.
+# The only other lines should be the teams that are in the playoffs.
+# These teams should be preceeded by their seeds and a :.
+# VALID SEEDS: A1, A2, A3, M1, M2, M3, C1, C2, C3, P1, P2, P3, EWC1, EWC2, WWC1, WWC2
+# After the team name, a comma should be placed followed by specific parts of their regular season record 
+# in the form of POINTS, WINS, ROW (Regulation plus Overtime Wins)
+# Example:
+# A1: Tampa Bay Lightning, 128, 62, 56
+# Teams that failed to make the playoffs should be commented out or not included.
+
+A1: Tampa Bay Lightning, 128, 62, 56
+A2: Boston Bruins, 107, 49, 47
+A3: Toronto Maple Leafs, 100, 46, 46
+M1: Washington Capitals, 104, 48, 44
+M2: New York Islanders, 103, 48, 43
+M3: Pittsburgh Penguins, 100, 44, 42
+EWC1: Carolina Hurricanes, 99, 46, 44
+EWC2: Columbus Blue Jackets, 98, 47, 45
+
+C1: Nashville Predators, 100, 47, 43
+C2: Winnipeg Jets, 99, 47, 49
+C3: St. Louis Blues, 99, 45, 42
+P1: Calgary Flames, 107, 50, 50
+P2: San Jose Sharks, 101, 46, 46
+P3: Vegas Golden Knights, 93, 43, 40
+WWC1: Dallas Stars, 93, 43, 42
+WWC2: Colorado Avalanche, 90, 38, 36
+
+# Montreal Canadians, 96, 44, 41
+# Arizona Coyotes, 86, 39, 35
+# Florida Panthers, 86, 36, 33
+# Chicago Blackhawks, 84, 36, 33
+# Minnesota Wild, 83, 37, 36
+# Philadelphia Flyers, 82, 37, 34
+# Vancouver Canucks, 81, 35, 29
+# New York Rangers, 78, 32, 26
+# Anaheim Ducks, 80, 35, 32
+# Buffalo Sabers, 76, 33, 28
+# Edmonton Oilers, 79, 35, 32
+# Detroit Red Wings, 74, 32, 29
+# New Jersey Devils, 72, 31, 28
+# Los Angeles Kings, 71, 31, 28
+# Ottawa Senators, 64, 29, 29
